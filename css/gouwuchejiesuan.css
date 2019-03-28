@@ -1,0 +1,108 @@
+.nav {
+    height: 31px;
+    background-color: #f1f1f1;
+}
+
+.nav .container,
+.logincolor,
+.nav .container li a {
+    line-height: 31px;
+    font-size: 12px;
+    color: #666666;
+}
+
+.nav .container div a:hover,
+.nav .container li a:hover {
+    color: #E33333;
+}
+
+.container {
+    position: relative;
+    height: 150px;
+}
+
+.nav .container li {
+    float: right;
+}
+
+.spacer {
+    width: 1px;
+    height: 12px;
+    background-color: #666;
+    margin: 9px 12px 0;
+}
+
+.home {
+    height: 150px;
+    border-bottom: 2px solid #b1191a;
+    /* background-color: red; */
+}
+
+.home .container .logo a {
+    display: block;
+    float: left;
+    height: 105px;
+    width: 210px;
+    background: url(../img/logo.png) no-repeat center;
+    font-size: 0;
+}
+
+.home .container p {
+    margin-top: 40px;
+    font-size: 19px;
+    color: #333;
+}
+
+.serch {
+    padding-top: 25px;
+    padding-left: 137px;
+    height: 80px;
+    width: 538px;
+    outline-style: none;
+}
+
+.serch input {
+    float: right;
+    outline: none;
+    width: 454px;
+    height: 32px;
+    font-size: 14px;
+    color: #666;
+    line-height: 32px;
+    border: 2px solid #c81623;
+}
+
+.serch button {
+    float: right;
+    outline: none;
+    height: 36px;
+    width: 80px;
+    background-color: #c81623;
+    border: 0;
+}
+
+.serch button a {
+    font-size: 16px;
+    color: #fff;
+}
+
+.container span {
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+    font-size: 16px;
+    color: #c81623;
+    font-weight: 700;
+}
+.itme_maim_hd{
+    padding-left: 5px;
+    margin-top: 22px;
+    height: 34px;
+    width: 1193px;
+    line-height: 34px;
+    border: 1px solid #dddddd;
+    background-color: #f5f5f5;
+}
+.itme_maim_hd input{
+    vertical-align: middle;
+}

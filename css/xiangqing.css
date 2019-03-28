@@ -1,0 +1,247 @@
+.nav {
+    height: 31px;
+    background-color: #f1f1f1;
+}
+
+.nav .container,
+.logincolor,
+.nav .container li a {
+    line-height: 31px;
+    font-size: 12px;
+    color: #666666;
+}
+
+.nav .container div a:hover,
+.nav .container li a:hover {
+    color: #E33333;
+}
+
+.nav .container li {
+    float: right;
+}
+
+.spacer {
+    width: 1px;
+    height: 12px;
+    background-color: #666;
+    margin: 9px 12px 0;
+}
+
+.home {
+    height: 150px;
+    border-bottom: 2px solid #b1191a;
+    /* background-color: red; */
+}
+
+.home .container .logo a {
+    display: block;
+    float: left;
+    height: 105px;
+    width: 210px;
+    background: url(../img/logo.png) no-repeat center;
+    font-size: 0;
+}
+
+.serch {
+    padding-top: 25px;
+    padding-left: 137px;
+    height: 80px;
+    width: 538px;
+    float: left;
+    outline-style: none;
+    background: url(../img/秒杀拷贝.png) no-repeat 0 38px;
+}
+
+.serch input {
+    float: right;
+    outline: none;
+    width: 454px;
+    height: 32px;
+    font-size: 14px;
+    color: #666;
+    line-height: 32px;
+    border: 2px solid #c81623;
+}
+
+.serch button {
+    float: right;
+    outline: none;
+    height: 36px;
+    width: 80px;
+    background-color: #c81623;
+    border: 0;
+}
+
+.serch button a {
+    font-size: 16px;
+    color: #fff;
+}
+
+.serch a {
+    font-size: 12px;
+    color: #666;
+    padding: 0 12px;
+}
+
+.serch a.red {
+    color: #c81623;
+}
+
+.shopcar {
+    float: left;
+    padding-top: 25px;
+    padding-left: 111px;
+    width: 204px;
+    height: 80px;
+}
+
+.shopcar .car {
+    position: relative;
+    height: 34px;
+    width: 138px;
+    font-size: 12px;
+    line-height: 34px;
+    text-align: center;
+    color: #666;
+    background-color: #f7f7f7;
+    border: 1px solid #dfdfdf;
+}
+
+.shopcar .car .count {
+    position: absolute;
+    left: 100px;
+    top: -8px;
+    font-size: 12px;
+    color: #fff;
+    line-height: 16px;
+    border-radius: 8px 8px 8px 0;
+    padding: 0 5px;
+    background-color: red;
+}
+
+.home .container {
+    position: relative;
+    height: 150px;
+}
+
+.logodown {
+    width: 1200px;
+    height: 45px;
+}
+
+.sell {
+    height: 45px;
+    width: 360px;
+}
+
+.sell span {
+    font-size: 16px;
+    color: #000000;
+    font-weight: 700;
+    line-height: 45px;
+    padding: 0 28px;
+}
+
+.home .container ul li {
+    float: left;
+    padding: 0 28px;
+    padding-top: 9px;
+}
+
+.home .container ul li a {
+    font-size: 12px;
+    color: #666666;
+}
+
+.home .container ul li a:hover {
+    color: #b1191a;
+}
+.nvxie{
+    text-align: center;
+    height: 120px;
+    margin-bottom: 25px;
+    background: url(../img/背景banner.png) no-repeat;
+}
+.nvxie p{
+    padding: 32px 0 20px 0;
+    font-size: 24px;
+    font-weight: 700;
+    color: #c81523;
+}
+.nvxie span{
+    font-size: 16px;
+    color: #000000;
+}
+.phone li{
+    position: relative;
+    float: left;
+    width: 288px;
+    height: 456px;
+    margin: 0 13px 12px 0;
+    border: 1px solid transparent;
+}
+.phone li a{
+    display: block;
+    width: 290px;
+    height: 458px;
+}
+.phone .clear_maginright{
+    margin-right: 0!important;
+}
+.phone li:hover{
+    border: 1px solid #e12228;
+    position: relative;
+}
+.phone li p{
+    padding: 0 13px;
+    font-size: 14px;
+    color: #666666;
+}
+.phone .price{
+    margin-top: 17px;
+    font-size: 22px;
+    color: #e60012;
+}
+.phone .price strong{
+    font-size: 14px;
+    color: #e60012;
+}
+.phone .price span{
+    font-size: 14px;
+    color: #a4a4a4;
+    text-decoration: line-through;
+}
+.percent{
+    margin-top: 5px;
+    padding-left: 13px;
+    font-size: 14px;
+    color: #666666;
+}
+.percent i{
+    font-style: normal;
+    color: #e12228;
+}
+.juxing{
+    width: 133px;
+    height: 13px;
+    margin: 3px 6px;
+    border-radius: 5px;
+    border: solid 1px #e12228;
+}
+.eightyseven{
+    height: 13px;
+    width: 87%;
+    background-color: #e12228;
+}
+.ljqg{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 288px;
+    height: 50px;
+    background-color: #b1191a;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    color: #ffffff;
+}

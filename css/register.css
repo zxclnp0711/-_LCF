@@ -1,0 +1,115 @@
+.register {
+    width: 1198px;
+    height: 520px;
+    background-color: #ffffff;
+    border: solid 1px #dfdfdf;
+    margin: 21px auto;
+}
+
+.newuser {
+    height: 40px;
+    background-color: #ececec;
+    border-bottom: 1px solid #ddd;
+    padding: 0 10px;
+}
+
+.newuser p {
+    font-size: 18px;
+    color: #333333;
+    line-height: 40px;
+}
+
+.newuser span {
+    font-size: 14px;
+    color: #333333;
+    line-height: 40px;
+}
+
+.newuser a {
+    font-size: 14px;
+    color: #c81623;
+}
+
+.register_start table {
+    margin-top: 55px;
+}
+
+.register_start td {
+    width: 240px;
+    height: 36px;
+}
+
+.register_start .text {
+    width: 238px;
+    height: 34px;
+    border: 1px solid #999;
+}
+
+.register_start .erro {
+    line-height: 36px;
+    font-size: 12px;
+    color: #df3033;
+}
+
+.register_start p {
+    font-size: 12px;
+    color: #b3b3b3;
+}
+
+.register_start ul {
+    margin-bottom: 10px;
+}
+
+.register_start li {
+    text-align: center;
+    margin-left: 1px;
+    width: 34px;
+    height: 13px;
+    line-height: 13px;
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.register_start span {
+    font-size: 14px;
+    color: #4d4d4d;
+    line-height: 36px;
+}
+
+.register_start .one {
+    background-color: #de1111;
+}
+
+.register_start .two {
+    background-color: #40b83f;
+}
+
+.register_start .three {
+    background-color: #f79100;
+}
+
+.register_start .agree {
+    font-size: 12px;
+    color: #4d4d4d;
+}
+
+.register_start a {
+    font-size: 12px;
+    color: #1ba1e6;
+}
+
+.register_start .success a {
+    display: inline-block;
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    margin-left: 8px;
+    font-size: 14px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 34px;
+}
+
+.duiqi {
+    vertical-align: middle;
+}

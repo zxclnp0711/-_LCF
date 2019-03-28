@@ -1,0 +1,407 @@
+.nav {
+    height: 31px;
+    background-color: #f1f1f1;
+}
+
+.nav .container,
+.logincolor,
+.nav .container li a {
+    line-height: 31px;
+    font-size: 12px;
+    color: #666666;
+}
+
+.nav .container div a:hover,
+.nav .container li a:hover {
+    color: #E33333;
+}
+
+.container {
+    position: relative;
+    height: 150px;
+}
+
+.nav .container li {
+    float: right;
+}
+
+.spacer {
+    width: 1px;
+    height: 12px;
+    background-color: #666;
+    margin: 9px 12px 0;
+}
+
+.home {
+    height: 150px;
+    border-bottom: 2px solid #b1191a;
+    /* background-color: red; */
+}
+
+.home .container .logo a {
+    display: block;
+    float: left;
+    height: 105px;
+    width: 210px;
+    background: url(../img/logo.png) no-repeat center;
+    font-size: 0;
+}
+
+.home .container p {
+    margin-top: 40px;
+    font-size: 19px;
+    color: #333;
+}
+
+.serch {
+    padding-top: 25px;
+    padding-left: 137px;
+    height: 80px;
+    width: 538px;
+    outline-style: none;
+}
+
+.serch input {
+    float: right;
+    outline: none;
+    width: 454px;
+    height: 32px;
+    font-size: 14px;
+    color: #666;
+    line-height: 32px;
+    border: 2px solid #c81623;
+}
+
+.serch button {
+    float: right;
+    outline: none;
+    height: 36px;
+    width: 80px;
+    background-color: #c81623;
+    border: 0;
+}
+
+.serch button a {
+    font-size: 16px;
+    color: #fff;
+}
+
+.container span {
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+    font-size: 16px;
+    color: #666;
+}
+
+.main {
+    margin-top: 20px;
+    padding: 40px 25px 0 25px;
+    width: 1148px;
+    height: 745px;
+    border: solid 1px #dddddd;
+}
+
+.neirong1 {
+    position: relative;
+    padding-left: 25px;
+    width: 1123px;
+    height: 116px;
+    border-bottom: solid 1px #dddddd;
+}
+
+.neirong1 .shoujian li {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.neirong1 .shoujian a {
+    font-size: 12px;
+    color: #1474af;
+}
+
+.zhangxx .lixx {
+    text-align: center;
+    height: 26px;
+    width: 140px;
+    line-height: 26px;
+    font-size: 12px;
+    color: #666666;
+    border: 2px solid #c81623;
+}
+
+.zhangxx li {
+    margin-left: 15px;
+    margin-top: 15px;
+    line-height: 26px;
+    font-size: 12px;
+    color: #666666;
+}
+
+.neirong1>a {
+    position: absolute;
+    display: block;
+    left: 44px;
+    bottom: 10px;
+    font-size: 12px;
+    color: #666666;
+}
+
+.neirong2 {
+    padding-left: 25px;
+    padding-top: 5px;
+    width: 1123px;
+    height: 65px;
+    border-bottom: solid 1px #dddddd;
+}
+
+.neirong2>.zhangxx>.lixx {
+    border: 1px solid #dddddd;
+}
+
+.neirong3 {
+    padding-left: 25px;
+    width: 1123px;
+    height: 84px;
+    border-bottom: solid 1px #dddddd;
+}
+
+.neirong3>p {
+    margin-bottom: 19px;
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.fangshi {
+    margin-left: 29px;
+    width: 193px;
+    height: 28px;
+    line-height: 28px;
+    font-size: 12px;
+    color: #666666;
+    text-align: center;
+    border: solid 1px #dddddd;
+}
+
+.fangshi p {
+    float: left;
+    width: 96px;
+    height: 28px;
+    border-right: solid 1px #dddddd;
+}
+
+.zaixianzhifu {
+    margin-left: 9px;
+    width: 94px;
+    height: 26px;
+    color: #666;
+    font-size: 12px;
+    line-height: 26px;
+    text-align: center;
+    border: 2px solid #c81623;
+}
+
+.neirong3 li a {
+    margin-left: 10px;
+    color: #666;
+    font-size: 12px;
+    line-height: 30px;
+}
+
+.neirong4 {
+    padding-left: 25px;
+    height: 57px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 57px;
+}
+
+.neirong5 {
+    padding: 20px 25px 0 25px;
+    height: 81px;
+    width: 1100px;
+    font-size: 12px;
+    font-weight: 700;
+    margin: 0 auto;
+    margin-bottom: 1px;
+    background-color: #f4f4f4;
+}
+
+.neirong5 li {
+    margin: 15px 18px;
+    line-height: 26px;
+    font-size: 12px;
+}
+
+.neirong5 a {
+    line-height: 26px;
+    font-size: 12px;
+    color: #1474af;
+}
+
+.neirong5 .ttkd {
+    margin: 15px 25px;
+    font-size: 12px;
+    width: 140px;
+    height: 26px;
+    border: 2px solid #c81623;
+    line-height: 26px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.neirong6 {
+    padding: 20px 25px 0 25px;
+    height: 133px;
+    width: 1100px;
+    font-size: 12px;
+    font-weight: 700;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    background-color: #feedef;
+}
+
+.nr6img {
+    margin: 15px 110px 0 20px;
+    height: 80px;
+    width: 80px;
+    border: 1px solid #dddddd;
+}
+
+.nr6wenzi {
+    position: relative;
+    margin-top: 15px;
+    margin-right: 320px;
+    width: 330px;
+    height: 80px;
+}
+
+.nr6wenzi p {
+    font-size: 12px;
+    color: #666666;
+    font-weight: 400;
+}
+
+.nr6wenzi span {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 12px;
+    color: #c81623;
+    font-weight: 400;
+}
+
+.neirong6 .nr6price {
+    font-size: 14px;
+    color: #e12228;
+    font-weight: 700;
+}
+
+.neirong6>span {
+    display: inline-block;
+    margin-top: 34px;
+    margin-left: 35px;
+    font-weight: 400;
+}
+
+.neirong7 {
+    padding: 20px 25px 0 25px;
+    height: 100px;
+    width: 1100px;
+    border-top: 1px solid #dddddd;
+}
+
+.neirong7 p {
+    font-size: 14px;
+    color: #333333;
+    font-weight: 700;
+}
+
+.neirong7 span {
+    display: inline-block;
+    margin: 20px 20px;
+    font-size: 12px;
+    color: #666666;
+}
+
+.neirong7 a {
+    font-size: 12px;
+    color: #1474af;
+}
+
+.jisuan {
+    padding: 0 30px;
+    width: 1140px;
+    height: 93px;
+}
+
+.jisuan td {
+    text-align: right;
+}
+
+.biao1 {
+    font-size: 12px;
+    color: #666666;
+}
+
+.biao2 {
+    font-size: 12px;
+    color: #333333;
+}
+
+.biao3 {
+    font-size: 12px;
+    color: #e60012;
+    font-weight: 700;
+}
+
+.jisuan table td {
+    width: 150px;
+    height: 25px;
+}
+
+.jiesuan {
+    padding: 20px 30px;
+    width: 1138px;
+    height: 30px;
+    border: 1px solid #ddd;
+    background-color: #f4f4f4;
+    margin: 0 auto;
+}
+
+.jiesuan p {
+    font-size: 12px;
+    color: #333;
+}
+
+.jiesuan em {
+    font-size: 16px;
+    color: #e60012;
+    font-weight: 700;
+}
+
+.jiesuan span {
+    font-size: 12px;
+    color: #333;
+}
+
+.button {
+    position: relative;
+    height: 98px;
+}
+
+.button a {
+    position: absolute;
+    top: 20px;
+    right: 32px;
+    display: block;
+    width: 142px;
+    height: 46px;
+    line-height: 46px;
+    text-align: center;
+    background-color: #df3033;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 700;
+}
